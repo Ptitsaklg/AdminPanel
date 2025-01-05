@@ -1,8 +1,8 @@
-![Главный экран приложения](assets/images/image.png)
+![Главный экран приложения](src/assets/images/image.png)
 
-![Клик по фото](assets/images/image2.png)
+![Клик по фото](src/assets/images/image2.png)
 
-![Добавить рецепт](assets/images/image3.png)
+![Добавить рецепт](src/assets/images/image3.png)
      
 
 
